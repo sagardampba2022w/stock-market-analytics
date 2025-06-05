@@ -176,3 +176,9 @@ cython_debug/
 *.csv
 *.parquet
 *.parquet.*
+
+
+
+# Google API Credentials (do NOT commit!)
+credentials.json
+token.json
