@@ -182,3 +182,4 @@ cython_debug/
 # Google API Credentials (do NOT commit!)
 credentials.json
 token.json
+stock-market-google-api.json

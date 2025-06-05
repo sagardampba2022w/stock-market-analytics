@@ -5,10 +5,14 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
+    "asyncio>=3.4.3",
     "eurostat>=1.1.1",
     "google-api-python-client>=2.171.0",
     "google-auth-httplib2>=0.2.0",
     "google-auth-oauthlib>=1.2.2",
+    "gspread>=6.2.1",
+    "gspread-dataframe>=4.0.0",
+    "ib-insync>=0.9.86",
     "ipykernel>=6.29.5",
     "jupyter>=1.1.1",
     "matplotlib>=3.10.3",
