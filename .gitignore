@@ -183,3 +183,9 @@ cython_debug/
 credentials.json
 token.json
 stock-market-google-api.json
+
+
+# Ignore TA-Lib source folder and archives
+ta-lib-0.6.4/
+ta-lib-0.6.4-src.tar.gz*
+uv.lock
