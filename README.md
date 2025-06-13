@@ -12,6 +12,9 @@ Link to whl releases [release link](https://github.com/cgohlke/talib-build/relea
 
 and then use pip install using the source to the wheel
 
+
+
+
 ```
 pip install ta_lib_0.6.0...........
 ```
