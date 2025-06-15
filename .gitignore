@@ -188,4 +188,5 @@ stock-market-google-api.json
 # Ignore TA-Lib source folder and archives
 ta-lib-0.6.4/
 ta-lib-0.6.4-src.tar.gz*
+ta-lib-0.5.1-py311h9ecbd09_0
 uv.lock
