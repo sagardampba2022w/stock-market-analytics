@@ -4,6 +4,8 @@
 
 [Slides Module 2](https://docs.google.com/presentation/d/e/2PACX-1vT5q3cUtbQjFwe8oPzhbBbMQUmVpfkjQmJvrGsMwEcdUVHpyu2eaI9aKJu_1xcgSsloG2hthp-dNHZ8/pub?start=false&loop=false&delayms=10000&slide=id.p)
 
+[Slides Module 3](https://docs.google.com/presentation/d/e/2PACX-1vQk1vvtNP1dBI6ss3_EnJMvSBmd3cz_jCgFbVg1aZI-tLBuGyeeMQRvSbEwfNkcsFWrqNmBWlBxrwOj/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
 [Installing ta-lib](https://blog.quantinsti.com/install-ta-lib-python/)
 
 download relevant wheel based on python version python --version
